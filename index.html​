@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>我的第一個網頁</title>
+  </head>
+  <body> <br>
+    <div style="text-align: left;"><span style="font-weight: bold;">我的<span
+
+          style="text-decoration: underline;">第</span>一個 </span><em>BlueGriffon</em><strong>
+        網頁</strong></div>
+    <br>
+    <a title="facebook" href="http://facebook.com/irvinfly"><span style="font-style: italic;">我
+        的 Facebook</span><br>
+    </a><br>
+    <img style="width: 322px; height: 215px;" alt="irvin 的照片" src="559236_3063717771496_484865005_n.jpg">
+  </body>
+</html>
